@@ -1,6 +1,4 @@
-# Sistem Akademik
-
-Repository: **ryadussalamt18/Sistem_Akademik**
+# Website Sistem Akademik
 
 Sistem Informasi Akademik berbasis **PHP Native** dan **MySQL**, dikembangkan untuk manajemen data akademik di lingkungan kampus.
 
